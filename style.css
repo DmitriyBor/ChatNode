@@ -1,0 +1,37 @@
+
+.headerClass {
+    height: 50px;
+    background-color: black;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.MainBlock {
+    width: 30%;
+    height: 850px; 
+    margin-top: auto;
+    margin-bottom: auto;
+    display: block;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px solid black;
+    padding: 15px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    box-shadow: -4px 4px 3px rgba(0, 0, 0, 0.205);
+}
+
+.footer {
+    height: 100px;
+    background-color: black;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+
+.footer-author {
+    font-size: 24px;
+    color: white;
+    display: flex;
+}
